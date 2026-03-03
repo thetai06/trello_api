@@ -1,0 +1,13 @@
+{
+  "name": "trello_api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "letaidev",
+  "main": "src/server.js",
+  "author": "letai",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
